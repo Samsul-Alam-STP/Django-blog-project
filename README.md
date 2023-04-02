@@ -1,6 +1,6 @@
-#Transformer and Switchgear Testing and Monitoring Blog
+# Transformer and Switchgear Testing and Monitoring Blog
 
-##This is a web application built using Django, HTML, CSS, and JavaScript that provides information on transformer and switchgear testing and monitoring. The application is designed to educate and inform electrical engineers, technicians, and enthusiasts about the importance of testing and monitoring these critical components of electrical power systems.
+This is a web application built using Django, HTML, CSS, and JavaScript that provides information on transformer and switchgear testing and monitoring. The application is designed to educate and inform electrical engineers, technicians, and enthusiasts about the importance of testing and monitoring these critical components of electrical power systems.
 ## Features
 The application features the following:
 
